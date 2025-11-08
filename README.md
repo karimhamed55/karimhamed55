@@ -42,9 +42,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
 
-**Light Mode Version**  
-![Pacman Graph Light](https://raw.githubusercontent.com/karimhamed55/karimhamed55/output/pacman-contribution-graph.svg)
+<img src="https://raw.githubusercontent.com/karimhamed55/karimhamed55/output/snake.svg" alt="Snake animation" />
 
-**Dark Mode Version**  
-![Pacman Graph Dark](https://raw.githubusercontent.com/karimhamed55/karimhamed55/output/pacman-contribution-graph-dark.svg)
-
+###
